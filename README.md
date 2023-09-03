@@ -1,24 +1,62 @@
-<h1 align="center">Hi 👋, I'm Krutal Patel</h1>
-<h3 align="center">I can paint a canvas of knowledge by illuminating hidden tales using different shades of storytelling.</h3>
+# Krutal Patel
+_Graduate Student based in Baltrimore, Maryland, United States_ <br>
 
-- Worked as a Jr. Software Engineer **Beyondata Solution PVT LTD**
+[Email](mailto:krutalp1@gmail.com) / [LinkedIn](https://www.linkedin.com/in/krutal-patel/) / [GitHub](https://github.com/krutal0706/) /
 
-- Worked as a Jr. Software Engineer **Atharva System**
+## 👨🏻‍🎓 Education
 
-- Worked as a Jr. Software Engineer **Insignia Technolabs**
+**Master of Professional** Studies in Data Science<br>
+University of Maryland Baltimroe County - Baltinmore, Maryland, USA _(2022 - 2023)_ <br>
 
-- 🌱 I’m currently learning **Power BI, Data Analyst Course**
+**Bachelor of Engineering** in Information Technology<br>
+Gujarat Technological University - Ahmedabad, Gujarat, India _(20014 - 2018)_ <br>
 
-- 👨‍💻 All of my projects are available at [https://github.com/Krutal0706](https://github.com/Krutal0706)
+##  Skills
 
-- 💬 Ask me about **SaaS, Data Analyst, Machine learning, Project Management, Cybersecurity**
+* Python, Java, OOPS | Machine Learning, Data Mining, Deep Learning, Data Visualization, Machine learning, Artificial Intelligence, and Natural Language Processing, SDLC, BigData | Spark, Power BI, Tableau, DAX | DataBricks , PyTorch, TensorFlow, NumPy, Pandas, SciKit-learn | Amazon Web Service (AWS) | ERP Systems, Odoo | HTML5, CSS3, JavaScript | JSON, XML | PostgreSQL, MySQL.
 
-- 📫 How to reach me **krutalp1@gmail.com**
+## 👨🏻‍💻 Technical Experience
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/krutal-patel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="krutal-patel" height="30" width="40" /></a>
-</p>
+**Jr. Software Engineer** @ [Beyondata Solutions PVT LTD](https://beyondatagroup.com/)  _(Dec 2020 - Dec 2021)_<br>
+A Service based company serving Digital Services to US Clients & Indian Industries (India).
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+* work and lead a team of 5 people (4 Backend, 1 Frontend).
+  * Implemented and upgraded to the Python-Odoo Framework, which has a 30% boost in usability and functionality..
+  * Created a customized web interface with Bootstrap 4, HTML, and CSS that is 30% more compatible with various screen widths than the original Odoo Framework. Python, one of the most effective but powerful server-side technologies, was employed, while Postgresql for databases.
+  * MVS structure for developing the web-based AI running software used for maintaining sale, purchase, inventory, accounting for Indian government for their agriculture sector; with this application company’s website visit count increased by 30% and gained a user base by 10%.
+	<br>
+
+**Jr. Software Engineer** @ [Atharva System](https://www.atharvasystem.com/) _(Jun 2019 - Nov 2020)_<br>
+A Service based company serving Digital Services to US & European Clients.
+
+* Developed and generated online apps for clients utilizing MVC architecture, Python as the back end, Bootstrap as the front-end, and Postgresql for the database.
+* Designed and deployed a theme for their e-commerce website using Bootstrap 4 and modified JavaScript, CSS, and jQuery, which enhanced user experience by 30% over the application's prior version.
+* By optimizing page routing and rerouting complicated buttons and links across several web pages for various links that go to other sites, it was possible to improve the page workflow by about 10%.
+* Construct unique utility python classes, libraries, and APIs to cut down on the number of lines of code needed to complete a particular activity that involves a lot of coding, increasing the team's productivity by at least 30%.
+	<br>
+
+**Softwarte engineer Intern** @ [Insignia Technolabs](https://insigniatechnolabs.com/) _(Jun 2018 - May 2019)_ <br/>
+Digital agency focused on providing web services to entrepreneurs.
+
+* Developed and tested a robust and secure web application using java script, html5, css3 and python frameworks.
+* Collaborated with five team members, reported to the team leader, and worked as a team.
+* Use digital media, apps, management software, scripting or authoring languages, and content production tools.
+
+<br>
+
+## 🌍 Academic Projects 
+
+**CHICAGO CRIME DATA ANALYSIS** _(Aug 2022 - Dec 2022)_ <br/>
+
+* Using Spark, Pandas, Seaborn, and Matplotlib to categorize and visualize the many sorts of crimes, the harm they inflict, and the places in which they occur. The analysis aids in future forecasting and decision-making.
+* The analysis aids in future forecasting and decision-making.
+
+**COMMODITY FORECASTING** _(Aug 2022 - Dec 2022)_ <br/>
+
+* The most comprehensive collection of characteristics used to compute gold rates compares the results of several machine learning techniques. By foreseeing the rise and fall in daily gold rates, investors may choose the ideal moment to buy gold.
+* Using tools like NewsCatcher to search through websites like Guardian and see if they have any top news about gold to remain up to speed on the most recent trends. Allow BeautifulSoup to read through several articles and analyze their emotion.
+
+**NESTQUEST** _(Feb 2023 - May 2023)_ <br/>
+
+* NestQuest is a cutting-edge technology that allows users to find their perfect homes using voice commands. By simply speaking their preferences, users can effortlessly search through a vast database of real estate listings and discover their dream homes in a convenient and efficient manner.
+* A chatbot using LangChain and harnessed the power of ChatGPT 3.5 Turbo Edition, creating an unparalleled conversational experience.
