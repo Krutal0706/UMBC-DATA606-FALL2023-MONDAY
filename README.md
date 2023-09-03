@@ -2,7 +2,7 @@
 # Krutal Patel <br>
 _Graduate Student based in Baltrimore, Maryland, United States_ <br>
 
-[Email](mailto:krutalp1@gmail.com) / [LinkedIn](https://www.linkedin.com/in/krutal-patel/) / [GitHub](https://github.com/krutal0706/) /
+[Email](mailto:krutalp1@gmail.com) / [Linked In](https://www.linkedin.com/in/krutal-patel/) / [GitHub](https://github.com/krutal0706/) /
 
 ## Education
 
