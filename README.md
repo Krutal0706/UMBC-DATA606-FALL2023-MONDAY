@@ -3,7 +3,7 @@ _Graduate Student based in Baltrimore, Maryland, United States_ <br>
 
 [Email](mailto:krutalp1@gmail.com) / [LinkedIn](https://www.linkedin.com/in/krutal-patel/) / [GitHub](https://github.com/krutal0706/) /
 
-## 👨🏻‍🎓 Education
+## Education
 
 **Master of Professional** Studies in Data Science<br>
 University of Maryland Baltimroe County - Baltinmore, Maryland, USA _(2022 - 2023)_ <br>
@@ -11,11 +11,11 @@ University of Maryland Baltimroe County - Baltinmore, Maryland, USA _(2022 - 202
 **Bachelor of Engineering** in Information Technology<br>
 Gujarat Technological University - Ahmedabad, Gujarat, India _(20014 - 2018)_ <br>
 
-##  Skills
+## Skills
 
 * Python, Java, OOPS | Machine Learning, Data Mining, Deep Learning, Data Visualization, Machine learning, Artificial Intelligence, and Natural Language Processing, SDLC, BigData | Spark, Power BI, Tableau, DAX | DataBricks , PyTorch, TensorFlow, NumPy, Pandas, SciKit-learn | Amazon Web Service (AWS) | ERP Systems, Odoo | HTML5, CSS3, JavaScript | JSON, XML | PostgreSQL, MySQL.
 
-## 👨🏻‍💻 Technical Experience
+## Technical Experience
 
 **Jr. Software Engineer** @ [Beyondata Solutions PVT LTD](https://beyondatagroup.com/)  _(Dec 2020 - Dec 2021)_<br>
 A Service based company serving Digital Services to US Clients & Indian Industries (India).
@@ -44,7 +44,7 @@ Digital agency focused on providing web services to entrepreneurs.
 
 <br>
 
-## 🌍 Academic Projects 
+## Academic Projects 
 
 **CHICAGO CRIME DATA ANALYSIS** _(Aug 2022 - Dec 2022)_ <br/>
 
