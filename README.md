@@ -1,9 +1,5 @@
-![Image](/Users/krutalpatel/Desktop/Data Science/sem_4/Data_606/pic.jpeg "a title")
-
-![Face Image!](/assets/images/san-juan-mountains.jpg "San Juan Mountains")
-
-<img src="/Users/krutalpatel/Desktop/Data Science/sem_4/Data_606/pic.jpeg" alt="Markdown Monster icon" style="float: left; margin-right: 10px;" />
-# Krutal Patel
+<img src="https://github.com/Krutal0706/personal/blob/f6bc7f5e278dcf6822cdf9f3293ca501b17503a3/pic.jpeg" alt="Markdown Monster icon" style="float: left; margin-right: 10px;" width="200"/> <br>
+# Krutal Patel <br>
 _Graduate Student based in Baltrimore, Maryland, United States_ <br>
 
 [Email](mailto:krutalp1@gmail.com) / [LinkedIn](https://www.linkedin.com/in/krutal-patel/) / [GitHub](https://github.com/krutal0706/) /
