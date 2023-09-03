@@ -43,8 +43,6 @@ Digital agency focused on providing web services to entrepreneurs.
 * Collaborated with five team members, reported to the team leader, and worked as a team.
 * Use digital media, apps, management software, scripting or authoring languages, and content production tools.
 
-<br>
-
 ## Academic Projects 
 
 **CHICAGO CRIME DATA ANALYSIS** _(Aug 2022 - Dec 2022)_ <br/>
@@ -61,8 +59,6 @@ Digital agency focused on providing web services to entrepreneurs.
 
 * NestQuest is a cutting-edge technology that allows users to find their perfect homes using voice commands. By simply speaking their preferences, users can effortlessly search through a vast database of real estate listings and discover their dream homes in a convenient and efficient manner.
 * A chatbot using LangChain and harnessed the power of ChatGPT 3.5 Turbo Edition, creating an unparalleled conversational experience.
-
-<br>
 
 ## Certifications
 
