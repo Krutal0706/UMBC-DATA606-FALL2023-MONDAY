@@ -60,3 +60,10 @@ Digital agency focused on providing web services to entrepreneurs.
 
 * NestQuest is a cutting-edge technology that allows users to find their perfect homes using voice commands. By simply speaking their preferences, users can effortlessly search through a vast database of real estate listings and discover their dream homes in a convenient and efficient manner.
 * A chatbot using LangChain and harnessed the power of ChatGPT 3.5 Turbo Edition, creating an unparalleled conversational experience.
+
+<br>
+
+## Certifications
+
+* Data Analytics by Google
+* Machine Learning by DeepLearning.AI & Stanford University
