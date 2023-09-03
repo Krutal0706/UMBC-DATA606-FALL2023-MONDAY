@@ -1,3 +1,8 @@
+![Image](/Users/krutalpatel/Desktop/Data Science/sem_4/Data_606/pic.jpeg "a title")
+
+![Face Image!](/assets/images/san-juan-mountains.jpg "San Juan Mountains")
+
+<img src="/Users/krutalpatel/Desktop/Data Science/sem_4/Data_606/pic.jpeg" alt="Markdown Monster icon" style="float: left; margin-right: 10px;" />
 # Krutal Patel
 _Graduate Student based in Baltrimore, Maryland, United States_ <br>
 
